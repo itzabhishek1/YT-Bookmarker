@@ -22,10 +22,6 @@ When clicked, it records the current timestamp and provides a link to quickly ju
 
 Clone this repository to your local machine
 
-OR use 
-```sh
-    git clone https://github.com/AyushC24/Youtube-Bookmarker.git
-```
 Open Google Chrome and go to the Extensions page (chrome://extensions).
 
 Enable "Developer mode" by toggling the switch in the top right corner.
